@@ -48,7 +48,7 @@ body{
   border-bottom: 2px solid #000;
 }
 
-#title-one {
+#p1 {
     background-color: #D59898;
   position: absolute;
   top: 0;
@@ -62,7 +62,7 @@ body{
 
 } 
 
-#title-two{
+#p2 {
   background-color:#C14543 ;
   color: white;
   position: absolute;
@@ -77,7 +77,7 @@ body{
 
 }
 
-#title-three{
+#p3{
  background-color: #E5D198;
   position: absolute;
   top: 0;
