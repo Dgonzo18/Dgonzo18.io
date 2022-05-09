@@ -49,15 +49,43 @@ body{
 }
 
 #title-one {
-  background-color: #D59898;
+    background-color: #D59898;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-weight: bold;
+  height: 35px;
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 } 
 
 #title-two{
-  background-color: #C14543;
+    background-color:#C14543 ;
+  color: white;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-weight: bold;
+  height: 35px;
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #title-three{
-  background-color: #E5D198;
+   background-color: #E5D198;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-weight: bold;
+  height: 35px;
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 /* Simple Responsive Framework. */
